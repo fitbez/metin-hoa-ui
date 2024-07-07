@@ -82,7 +82,7 @@ const Input = styled.input`
     font-size: 0.8em;
     margin-bottom: ${(props) =>
       props.theme.spacing
-        .medium}; /* Ensure margin is applied on small devices */
+        .small}; /* Ensure margin is applied on small devices */
   }
 `;
 
